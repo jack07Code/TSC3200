@@ -18,6 +18,6 @@ class TSC3200 {
         int s2;
         int s3;
         int out;
-}
+};
 
 #endif
