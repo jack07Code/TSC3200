@@ -1,0 +1,7 @@
+TSC3200    KEYWORD1
+green      KEYWORD2
+blue       KEYWORD2
+red        KEYWORD2
+readColor  KEYWORD2
+begin      KEYWORD2
+colorName  KEYWORD2
